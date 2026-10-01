@@ -1,2 +1,3 @@
 # temas-ui-320x480
 Repositório para compartilhar e colaborar em temas .ui para telas IPS 3.5" (320x480) - Programa de monitoramento de métricas PC MX25
+Ola pessoal. tudo bem? Depois uma tela secundária ips 3.5 polegadas genéricas que utilizam para gerar como métricas do meu pc, porém estou tendo dificuldades em encontrar temas para usar no programa, pois utilizar arquivo no formato .ui se houver alguém com experiência nesse formato e puder criar temas ou adaptar temas existentes para ser compatível, eu agradeço pois queria muito temas na vertical com resolução de 320x480. segue link do programa que utiliza ele é a versão mx25. desde já agradeço a todos da comunidadehttps://drive.google.com/drive/folders/1i7c9xFA_BruQGg9vVSYj0NivDR7PplfJ
